@@ -8,4 +8,8 @@
         $triplo = $num1 * 3;
         return $triplo;
     }
+    function calctrip($num1){
+        $triplo = $num1 * 3;
+        return $triplo;
+    }
 ?>
