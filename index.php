@@ -1,11 +1,11 @@
 <?php
-    function calcdobro(){
+    function calcdobro($num){
         $dobro = $num * 2;
         return $dobro;
 
     }
-    function calctrip($num){
-        $triplo = $num * 3;
+    function calctrip($num1){
+        $triplo = $num1 * 3;
         return $triplo;
     }
 ?>
